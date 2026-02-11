@@ -2,7 +2,8 @@
 
 ## Overview
 This is my first serious web project, created to practice **front-end development** using HTML and CSS.  
-The website is a **fan-made, unofficial Call of Duty page**, designed to showcase game information, media, and interactive UI elements.  
+The website is a **fan-made, unofficial Call of Duty page in Catalan**, designed to showcase game information, media, and interactive UI elements.
+
 
 The project demonstrates my ability to:  
 - Build **responsive layouts** for all devices  
